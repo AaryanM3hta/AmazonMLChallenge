@@ -51,5 +51,8 @@ Concatenates them into a multimodal feature vector
 Trains an ANN regressor
 
 Generates the final submission.csv file
+
+![WhatsApp Image 2025-11-27 at 22 10 33_33140bc6](https://github.com/user-attachments/assets/60b4d9e8-6d29-4115-9c42-9d4787062f59)
+
 ## **License**
 This project is licensed under the Apache 2.0 License. See the `LICENSE` file for details.
